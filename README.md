@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **javascript, Bootstrap, react js.**
 
-- 💬 Ask me about **Anything related to frontend development.**
+- 💬 Ask me about **Anything related to fullstack development.**
 
 - 📫 How to reach me **martin.barea.ok@gmail.com**
 
